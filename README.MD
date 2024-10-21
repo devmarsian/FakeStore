@@ -6,3 +6,6 @@ Technologies used:
 - MVIKotlin
 - Decompose
 - Ktor
+
+Download APK:
+[Download Fake Store APK](https://github.com/devmarsian/FakeStore/composeApp/release/FakeAppRelease.apk)
