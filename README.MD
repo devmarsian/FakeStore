@@ -7,5 +7,4 @@ Technologies used:
 - Decompose
 - Ktor
 
-Download APK:
 [Download Fake Store APK](https://github.com/devmarsian/FakeStore/raw/main/composeApp/release/FakeAppRelease.apk)
